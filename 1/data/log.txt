@@ -1,0 +1,26 @@
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945606]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945610]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945610]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945610]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945610]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945637]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945640]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945640]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945640]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945641]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945641]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945829]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
+
+<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[help info]]></Content><CreateTime><![CDATA[1396945833]]></CreateTime><FuncFlag><![CDATA[0]]></FuncFlag></xml>
